@@ -1,0 +1,17 @@
+{
+  "name": "zeal_project",
+  "version": "1.0.0",
+  "description": "solves this problem: https://gist.github.com/streeter/fa568dca208fd0c6e2ca924a40b25644",
+  "main": "server.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "Mike Lee",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
